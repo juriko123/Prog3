@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\c#\vaje1\deljiva_stevila\bin\Debug\deljiva_stevila.exe.config
+C:\Users\Jurij\Desktop\c#\vaje1\deljiva_stevila\bin\Debug\deljiva_stevila.exe
+C:\Users\Jurij\Desktop\c#\vaje1\deljiva_stevila\bin\Debug\deljiva_stevila.pdb
+C:\Users\Jurij\Desktop\c#\vaje1\deljiva_stevila\obj\Debug\deljiva_stevila.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\vaje1\deljiva_stevila\obj\Debug\deljiva_stevila.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\vaje1\deljiva_stevila\obj\Debug\deljiva_stevila.exe
+C:\Users\Jurij\Desktop\c#\vaje1\deljiva_stevila\obj\Debug\deljiva_stevila.pdb

@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\c#\vaje2\teza_niza\bin\Debug\teza_niza.exe.config
+C:\Users\Jurij\Desktop\c#\vaje2\teza_niza\bin\Debug\teza_niza.exe
+C:\Users\Jurij\Desktop\c#\vaje2\teza_niza\bin\Debug\teza_niza.pdb
+C:\Users\Jurij\Desktop\c#\vaje2\teza_niza\obj\Debug\teza_niza.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\vaje2\teza_niza\obj\Debug\teza_niza.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\vaje2\teza_niza\obj\Debug\teza_niza.exe
+C:\Users\Jurij\Desktop\c#\vaje2\teza_niza\obj\Debug\teza_niza.pdb

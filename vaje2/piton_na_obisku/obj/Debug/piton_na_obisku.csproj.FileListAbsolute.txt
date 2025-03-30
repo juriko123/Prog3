@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\c#\vaje2\piton_na_obisku\bin\Debug\piton_na_obisku.exe.config
+C:\Users\Jurij\Desktop\c#\vaje2\piton_na_obisku\bin\Debug\piton_na_obisku.exe
+C:\Users\Jurij\Desktop\c#\vaje2\piton_na_obisku\bin\Debug\piton_na_obisku.pdb
+C:\Users\Jurij\Desktop\c#\vaje2\piton_na_obisku\obj\Debug\piton_na_obisku.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\vaje2\piton_na_obisku\obj\Debug\piton_na_obisku.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\vaje2\piton_na_obisku\obj\Debug\piton_na_obisku.exe
+C:\Users\Jurij\Desktop\c#\vaje2\piton_na_obisku\obj\Debug\piton_na_obisku.pdb

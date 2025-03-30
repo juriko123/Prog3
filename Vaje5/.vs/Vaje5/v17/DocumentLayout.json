@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{553C6C1F-4488-46DB-890E-407B8051A3E3}|Mnozimo_se\\Mnozimo_se.csproj|C:\\Users\\Jurij\\Desktop\\c#\\Vaje5\\mnozimo_se\\mnozimo_se.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{553C6C1F-4488-46DB-890E-407B8051A3E3}|Mnozimo_se\\Mnozimo_se.csproj|solutionrelative:mnozimo_se\\mnozimo_se.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E822CE07-8295-4C82-9AA3-1628F23E97A5}|Poisci7\\Poisci7.csproj|c:\\users\\jurij\\desktop\\c#\\vaje5\\poisci7\\poisci7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E822CE07-8295-4C82-9AA3-1628F23E97A5}|Poisci7\\Poisci7.csproj|solutionrelative:poisci7\\poisci7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5330E766-23DD-47B2-99B5-40B412B96F57}|Srednji_element\\Srednji_element.csproj|C:\\Users\\Jurij\\Desktop\\c#\\Vaje5\\srednji_element\\srednji_element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5330E766-23DD-47B2-99B5-40B412B96F57}|Srednji_element\\Srednji_element.csproj|solutionrelative:srednji_element\\srednji_element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5F1432-133E-48AE-B311-7F50B0415A74}|koliko_najvecjih\\koliko_najvecjih.csproj|C:\\Users\\Jurij\\Desktop\\c#\\Vaje5\\koliko_najvecjih\\koliko_najvecjih.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5F1432-133E-48AE-B311-7F50B0415A74}|koliko_najvecjih\\koliko_najvecjih.csproj|solutionrelative:koliko_najvecjih\\koliko_najvecjih.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C77D28D-6F08-4B0A-8C89-968B0335BC0C}|Nicle_kv_enacbe\\Nicle_kv_enacbe.csproj|C:\\Users\\Jurij\\Desktop\\c#\\Vaje5\\nicle_kv_enacbe\\nke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C77D28D-6F08-4B0A-8C89-968B0335BC0C}|Nicle_kv_enacbe\\Nicle_kv_enacbe.csproj|solutionrelative:nicle_kv_enacbe\\nke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB907F7-4D05-4D3E-B7C2-80D7BF91DCBC}|VrniNtielement_de_luxe\\VrniNtielement_de_luxe.csproj|C:\\Users\\Jurij\\Desktop\\c#\\Vaje5\\vrnintielement_de_luxe\\vrninti_element_de_luxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB907F7-4D05-4D3E-B7C2-80D7BF91DCBC}|VrniNtielement_de_luxe\\VrniNtielement_de_luxe.csproj|solutionrelative:vrnintielement_de_luxe\\vrninti_element_de_luxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vrninti_element_de_luxe.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje5\\VrniNtielement_de_luxe\\Vrninti_element_de_luxe.cs",
+              "RelativeDocumentMoniker": "VrniNtielement_de_luxe\\Vrninti_element_de_luxe.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje5\\VrniNtielement_de_luxe\\Vrninti_element_de_luxe.cs",
+              "RelativeToolTip": "VrniNtielement_de_luxe\\Vrninti_element_de_luxe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:04:34.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NKE.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje5\\Nicle_kv_enacbe\\NKE.cs",
+              "RelativeDocumentMoniker": "Nicle_kv_enacbe\\NKE.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje5\\Nicle_kv_enacbe\\NKE.cs",
+              "RelativeToolTip": "Nicle_kv_enacbe\\NKE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T16:40:20.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Srednji_element.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje5\\Srednji_element\\Srednji_element.cs",
+              "RelativeDocumentMoniker": "Srednji_element\\Srednji_element.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje5\\Srednji_element\\Srednji_element.cs",
+              "RelativeToolTip": "Srednji_element\\Srednji_element.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswDgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T00:18:59.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mnozimo_se.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje5\\Mnozimo_se\\Mnozimo_se.cs",
+              "RelativeDocumentMoniker": "Mnozimo_se\\Mnozimo_se.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje5\\Mnozimo_se\\Mnozimo_se.cs",
+              "RelativeToolTip": "Mnozimo_se\\Mnozimo_se.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T23:37:11.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Poisci7.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje5\\Poisci7\\Poisci7.cs",
+              "RelativeDocumentMoniker": "Poisci7\\Poisci7.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje5\\Poisci7\\Poisci7.cs",
+              "RelativeToolTip": "Poisci7\\Poisci7.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T22:57:52.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Koliko_najvecjih.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje5\\koliko_najvecjih\\Koliko_najvecjih.cs",
+              "RelativeDocumentMoniker": "koliko_najvecjih\\Koliko_najvecjih.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje5\\koliko_najvecjih\\Koliko_najvecjih.cs",
+              "RelativeToolTip": "koliko_najvecjih\\Koliko_najvecjih.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwCoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T22:29:00.627Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

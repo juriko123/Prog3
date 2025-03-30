@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\c#\Vaje5\VrniNtielement_de_luxe\bin\Debug\VrniNtielement_de_luxe.exe.config
+C:\Users\Jurij\Desktop\c#\Vaje5\VrniNtielement_de_luxe\bin\Debug\VrniNtielement_de_luxe.exe
+C:\Users\Jurij\Desktop\c#\Vaje5\VrniNtielement_de_luxe\bin\Debug\VrniNtielement_de_luxe.pdb
+C:\Users\Jurij\Desktop\c#\Vaje5\VrniNtielement_de_luxe\obj\Debug\VrniNtielement_de_luxe.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\Vaje5\VrniNtielement_de_luxe\obj\Debug\VrniNtielement_de_luxe.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\Vaje5\VrniNtielement_de_luxe\obj\Debug\VrniNtielement_de_luxe.exe
+C:\Users\Jurij\Desktop\c#\Vaje5\VrniNtielement_de_luxe\obj\Debug\VrniNtielement_de_luxe.pdb

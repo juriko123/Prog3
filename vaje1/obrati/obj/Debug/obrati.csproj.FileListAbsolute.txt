@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\Vaje1\obrati\bin\Debug\obrati.exe.config
+C:\Users\Jurij\Desktop\Vaje1\obrati\bin\Debug\obrati.exe
+C:\Users\Jurij\Desktop\Vaje1\obrati\bin\Debug\obrati.pdb
+C:\Users\Jurij\Desktop\Vaje1\obrati\obj\Debug\obrati.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\Vaje1\obrati\obj\Debug\obrati.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\Vaje1\obrati\obj\Debug\obrati.exe
+C:\Users\Jurij\Desktop\Vaje1\obrati\obj\Debug\obrati.pdb

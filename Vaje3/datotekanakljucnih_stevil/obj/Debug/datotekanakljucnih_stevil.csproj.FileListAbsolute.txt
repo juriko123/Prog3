@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\c#\Vaje3\datotekanakljucnih_stevil\obj\Debug\datotekanakljucnih_stevil.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\Vaje3\datotekanakljucnih_stevil\obj\Debug\datotekanakljucnih_stevil.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\Vaje3\datotekanakljucnih_stevil\bin\Debug\datotekanakljucnih_stevil.exe.config
+C:\Users\Jurij\Desktop\c#\Vaje3\datotekanakljucnih_stevil\bin\Debug\datotekanakljucnih_stevil.exe
+C:\Users\Jurij\Desktop\c#\Vaje3\datotekanakljucnih_stevil\bin\Debug\datotekanakljucnih_stevil.pdb
+C:\Users\Jurij\Desktop\c#\Vaje3\datotekanakljucnih_stevil\obj\Debug\datotekanakljucnih_stevil.exe
+C:\Users\Jurij\Desktop\c#\Vaje3\datotekanakljucnih_stevil\obj\Debug\datotekanakljucnih_stevil.pdb

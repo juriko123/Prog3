@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\c#\vaje2\hisne_stevilke\obj\Debug\hisne_stevilke.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\vaje2\hisne_stevilke\obj\Debug\hisne_stevilke.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\vaje2\hisne_stevilke\bin\Debug\hisne_stevilke.exe.config
+C:\Users\Jurij\Desktop\c#\vaje2\hisne_stevilke\bin\Debug\hisne_stevilke.exe
+C:\Users\Jurij\Desktop\c#\vaje2\hisne_stevilke\bin\Debug\hisne_stevilke.pdb
+C:\Users\Jurij\Desktop\c#\vaje2\hisne_stevilke\obj\Debug\hisne_stevilke.exe
+C:\Users\Jurij\Desktop\c#\vaje2\hisne_stevilke\obj\Debug\hisne_stevilke.pdb

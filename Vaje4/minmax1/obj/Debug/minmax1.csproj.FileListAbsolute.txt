@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\c#\Vaje4\minmax1\bin\Debug\minmax1.exe.config
+C:\Users\Jurij\Desktop\c#\Vaje4\minmax1\bin\Debug\minmax1.exe
+C:\Users\Jurij\Desktop\c#\Vaje4\minmax1\bin\Debug\minmax1.pdb
+C:\Users\Jurij\Desktop\c#\Vaje4\minmax1\obj\Debug\minmax1.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\Vaje4\minmax1\obj\Debug\minmax1.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\Vaje4\minmax1\obj\Debug\minmax1.exe
+C:\Users\Jurij\Desktop\c#\Vaje4\minmax1\obj\Debug\minmax1.pdb

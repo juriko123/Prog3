@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\c#\Vaje3\nakljucna_stevila\bin\Debug\nakljucna_stevila.exe.config
+C:\Users\Jurij\Desktop\c#\Vaje3\nakljucna_stevila\bin\Debug\nakljucna_stevila.exe
+C:\Users\Jurij\Desktop\c#\Vaje3\nakljucna_stevila\bin\Debug\nakljucna_stevila.pdb
+C:\Users\Jurij\Desktop\c#\Vaje3\nakljucna_stevila\obj\Debug\nakljucna_stevila.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\Vaje3\nakljucna_stevila\obj\Debug\nakljucna_stevila.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\Vaje3\nakljucna_stevila\obj\Debug\nakljucna_stevila.exe
+C:\Users\Jurij\Desktop\c#\Vaje3\nakljucna_stevila\obj\Debug\nakljucna_stevila.pdb

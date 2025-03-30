@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jurij\\Desktop\\c#\\vaje1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55E29C38-7364-42BD-BE5F-0B6849A1DF09}|goljufivi_pek\\goljufivi_pek.csproj|c:\\users\\jurij\\desktop\\c#\\vaje1\\goljufivi_pek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E29C38-7364-42BD-BE5F-0B6849A1DF09}|goljufivi_pek\\goljufivi_pek.csproj|solutionrelative:goljufivi_pek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D27CAFF-E1BD-4E95-B4D2-E6D0BB6FEC65}|obrni_stevilo\\obrni_stevilo.csproj|C:\\Users\\Jurij\\Desktop\\c#\\vaje1\\obrni_stevilo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D27CAFF-E1BD-4E95-B4D2-E6D0BB6FEC65}|obrni_stevilo\\obrni_stevilo.csproj|solutionrelative:obrni_stevilo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF97521-F900-4AD4-B465-0A649B6D07C9}|palindromska_stevila\\palindromska_stevila.csproj|C:\\Users\\Jurij\\Desktop\\c#\\vaje1\\palindromska_stevila\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF97521-F900-4AD4-B465-0A649B6D07C9}|palindromska_stevila\\palindromska_stevila.csproj|solutionrelative:palindromska_stevila\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6EFFF7A-F496-4A4D-9BE5-C4666599F8B6}|deljiva_stevila\\deljiva_stevila.csproj|C:\\Users\\Jurij\\Desktop\\c#\\vaje1\\deljiva_stevila\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6EFFF7A-F496-4A4D-9BE5-C4666599F8B6}|deljiva_stevila\\deljiva_stevila.csproj|solutionrelative:deljiva_stevila\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D95352E-90BA-4DF4-BDFA-ACCC38D5FE78}|caramo_s_celimi_stevili\\caramo_s_celimi_stevili.csproj|C:\\Users\\Jurij\\Desktop\\c#\\vaje1\\caramo_s_celimi_stevili\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D95352E-90BA-4DF4-BDFA-ACCC38D5FE78}|caramo_s_celimi_stevili\\caramo_s_celimi_stevili.csproj|solutionrelative:caramo_s_celimi_stevili\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35EF6B0D-9FD4-4703-B441-50E4E87AE77B}|R2Kattis\\R2Kattis.csproj|C:\\Users\\Jurij\\Desktop\\c#\\vaje1\\r2kattis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35EF6B0D-9FD4-4703-B441-50E4E87AE77B}|R2Kattis\\R2Kattis.csproj|solutionrelative:r2kattis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2362B1-29BE-438F-A330-B531DC7A6268}|Nakjluca_stevila\\Nakjluca_stevila.csproj|C:\\Users\\Jurij\\Desktop\\c#\\vaje1\\nakjluca_stevila\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2362B1-29BE-438F-A330-B531DC7A6268}|Nakjluca_stevila\\Nakjluca_stevila.csproj|solutionrelative:nakjluca_stevila\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD84E93-F6C2-4568-A163-4711001D08CB}|obrati\\obrati.csproj|C:\\Users\\Jurij\\Desktop\\c#\\vaje1\\obrati\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD84E93-F6C2-4568-A163-4711001D08CB}|obrati\\obrati.csproj|solutionrelative:obrati\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EA5DA3-7253-4F23-AF18-F128AB1E3BE3}|popravi\\popravi.csproj|C:\\Users\\Jurij\\Desktop\\c#\\vaje1\\popravi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EA5DA3-7253-4F23-AF18-F128AB1E3BE3}|popravi\\popravi.csproj|solutionrelative:popravi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\vaje1\\goljufivi_pek\\Program.cs",
+              "RelativeDocumentMoniker": "goljufivi_pek\\Program.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\vaje1\\goljufivi_pek\\Program.cs",
+              "RelativeToolTip": "goljufivi_pek\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T23:51:20.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\vaje1\\obrni_stevilo\\Program.cs",
+              "RelativeDocumentMoniker": "obrni_stevilo\\Program.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\vaje1\\obrni_stevilo\\Program.cs",
+              "RelativeToolTip": "obrni_stevilo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T23:26:44.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\vaje1\\palindromska_stevila\\Program.cs",
+              "RelativeDocumentMoniker": "palindromska_stevila\\Program.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\vaje1\\palindromska_stevila\\Program.cs",
+              "RelativeToolTip": "palindromska_stevila\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T23:07:02.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\vaje1\\deljiva_stevila\\Program.cs",
+              "RelativeDocumentMoniker": "deljiva_stevila\\Program.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\vaje1\\deljiva_stevila\\Program.cs",
+              "RelativeToolTip": "deljiva_stevila\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAACRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T22:30:05.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\vaje1\\caramo_s_celimi_stevili\\Program.cs",
+              "RelativeDocumentMoniker": "caramo_s_celimi_stevili\\Program.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\vaje1\\caramo_s_celimi_stevili\\Program.cs",
+              "RelativeToolTip": "caramo_s_celimi_stevili\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:54:54.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\vaje1\\R2Kattis\\Program.cs",
+              "RelativeDocumentMoniker": "R2Kattis\\Program.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\vaje1\\R2Kattis\\Program.cs",
+              "RelativeToolTip": "R2Kattis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:41:05.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\vaje1\\Nakjluca_stevila\\Program.cs",
+              "RelativeDocumentMoniker": "Nakjluca_stevila\\Program.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\vaje1\\Nakjluca_stevila\\Program.cs",
+              "RelativeToolTip": "Nakjluca_stevila\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:23:28.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\vaje1\\obrati\\Program.cs",
+              "RelativeDocumentMoniker": "obrati\\Program.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\vaje1\\obrati\\Program.cs",
+              "RelativeToolTip": "obrati\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:11:06.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\vaje1\\popravi\\Program.cs",
+              "RelativeDocumentMoniker": "popravi\\Program.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\vaje1\\popravi\\Program.cs",
+              "RelativeToolTip": "popravi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAACaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:57:53.425Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

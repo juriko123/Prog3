@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\c#\Vaje3\zamenjava_elementov\bin\Debug\zamenjava_elementov.exe.config
+C:\Users\Jurij\Desktop\c#\Vaje3\zamenjava_elementov\bin\Debug\zamenjava_elementov.exe
+C:\Users\Jurij\Desktop\c#\Vaje3\zamenjava_elementov\bin\Debug\zamenjava_elementov.pdb
+C:\Users\Jurij\Desktop\c#\Vaje3\zamenjava_elementov\obj\Debug\zamenjava_elementov.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\Vaje3\zamenjava_elementov\obj\Debug\zamenjava_elementov.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\Vaje3\zamenjava_elementov\obj\Debug\zamenjava_elementov.exe
+C:\Users\Jurij\Desktop\c#\Vaje3\zamenjava_elementov\obj\Debug\zamenjava_elementov.pdb

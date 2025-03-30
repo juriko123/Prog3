@@ -1,0 +1,11 @@
+Goljuvifi pek:
+
+za kodo popraviti sem uporabil, code clean up, vendar nekaj stvari sem še vedno mogel
+popraviti ročno npr: pri for zanki pogoj mi ni popravilo vse v eno vrstico...
+potem sem pa na obeh for zankah opravil metodo refactor in Extract method, od rocnega dela je bilo potem treba
+se vse prilagoditi
+
+1. uporabi na celi kodi cleanup code: da vizualno polepšaš kodo
+2. na obeh for zankah uporabi refactor in extract in poimenuj obe funkciji
+3. Spremeni vse možne parametre
+4. Preglej ce je v main vse uredu

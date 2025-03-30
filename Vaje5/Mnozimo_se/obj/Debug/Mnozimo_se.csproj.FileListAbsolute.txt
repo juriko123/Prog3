@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\c#\Vaje5\Mnozimo_se\bin\Debug\Mnozimo_se.exe.config
+C:\Users\Jurij\Desktop\c#\Vaje5\Mnozimo_se\bin\Debug\Mnozimo_se.exe
+C:\Users\Jurij\Desktop\c#\Vaje5\Mnozimo_se\bin\Debug\Mnozimo_se.pdb
+C:\Users\Jurij\Desktop\c#\Vaje5\Mnozimo_se\obj\Debug\Mnozimo_se.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\Vaje5\Mnozimo_se\obj\Debug\Mnozimo_se.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\Vaje5\Mnozimo_se\obj\Debug\Mnozimo_se.exe
+C:\Users\Jurij\Desktop\c#\Vaje5\Mnozimo_se\obj\Debug\Mnozimo_se.pdb

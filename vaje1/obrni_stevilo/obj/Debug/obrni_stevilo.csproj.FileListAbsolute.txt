@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\c#\vaje1\obrni_stevilo\obj\Debug\obrni_stevilo.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\vaje1\obrni_stevilo\obj\Debug\obrni_stevilo.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\vaje1\obrni_stevilo\bin\Debug\obrni_stevilo.exe.config
+C:\Users\Jurij\Desktop\c#\vaje1\obrni_stevilo\bin\Debug\obrni_stevilo.exe
+C:\Users\Jurij\Desktop\c#\vaje1\obrni_stevilo\bin\Debug\obrni_stevilo.pdb
+C:\Users\Jurij\Desktop\c#\vaje1\obrni_stevilo\obj\Debug\obrni_stevilo.exe
+C:\Users\Jurij\Desktop\c#\vaje1\obrni_stevilo\obj\Debug\obrni_stevilo.pdb

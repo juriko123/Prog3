@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\c#\Vaje6\Vozilo\bin\Debug\Vozilo.exe.config
+C:\Users\Jurij\Desktop\c#\Vaje6\Vozilo\bin\Debug\Vozilo.exe
+C:\Users\Jurij\Desktop\c#\Vaje6\Vozilo\bin\Debug\Vozilo.pdb
+C:\Users\Jurij\Desktop\c#\Vaje6\Vozilo\obj\Debug\Vozilo.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\Vaje6\Vozilo\obj\Debug\Vozilo.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\Vaje6\Vozilo\obj\Debug\Vozilo.exe
+C:\Users\Jurij\Desktop\c#\Vaje6\Vozilo\obj\Debug\Vozilo.pdb

@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\c#\Vaje4\IzpisTabele\bin\Debug\IzpisTabele.exe.config
+C:\Users\Jurij\Desktop\c#\Vaje4\IzpisTabele\bin\Debug\IzpisTabele.exe
+C:\Users\Jurij\Desktop\c#\Vaje4\IzpisTabele\bin\Debug\IzpisTabele.pdb
+C:\Users\Jurij\Desktop\c#\Vaje4\IzpisTabele\obj\Debug\IzpisTabele.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\Vaje4\IzpisTabele\obj\Debug\IzpisTabele.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\Vaje4\IzpisTabele\obj\Debug\IzpisTabele.exe
+C:\Users\Jurij\Desktop\c#\Vaje4\IzpisTabele\obj\Debug\IzpisTabele.pdb

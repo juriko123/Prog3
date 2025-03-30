@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\c#\Vaje4\vsote2\obj\Debug\vsote2.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\Vaje4\vsote2\obj\Debug\vsote2.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\Vaje4\vsote2\bin\Debug\vsote2.exe.config
+C:\Users\Jurij\Desktop\c#\Vaje4\vsote2\bin\Debug\vsote2.exe
+C:\Users\Jurij\Desktop\c#\Vaje4\vsote2\bin\Debug\vsote2.pdb
+C:\Users\Jurij\Desktop\c#\Vaje4\vsote2\obj\Debug\vsote2.exe
+C:\Users\Jurij\Desktop\c#\Vaje4\vsote2\obj\Debug\vsote2.pdb

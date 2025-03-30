@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\c#\Vaje3\PodvojiVelikost\bin\Debug\PodvojiVelikost.exe.config
+C:\Users\Jurij\Desktop\c#\Vaje3\PodvojiVelikost\bin\Debug\PodvojiVelikost.exe
+C:\Users\Jurij\Desktop\c#\Vaje3\PodvojiVelikost\bin\Debug\PodvojiVelikost.pdb
+C:\Users\Jurij\Desktop\c#\Vaje3\PodvojiVelikost\obj\Debug\PodvojiVelikost.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\Vaje3\PodvojiVelikost\obj\Debug\PodvojiVelikost.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\Vaje3\PodvojiVelikost\obj\Debug\PodvojiVelikost.exe
+C:\Users\Jurij\Desktop\c#\Vaje3\PodvojiVelikost\obj\Debug\PodvojiVelikost.pdb

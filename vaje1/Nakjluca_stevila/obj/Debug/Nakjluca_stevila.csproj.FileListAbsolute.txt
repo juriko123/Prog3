@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\Vaje1\Nakjluca_stevila\bin\Debug\Nakjluca_stevila.exe.config
+C:\Users\Jurij\Desktop\Vaje1\Nakjluca_stevila\bin\Debug\Nakjluca_stevila.exe
+C:\Users\Jurij\Desktop\Vaje1\Nakjluca_stevila\bin\Debug\Nakjluca_stevila.pdb
+C:\Users\Jurij\Desktop\Vaje1\Nakjluca_stevila\obj\Debug\Nakjluca_stevila.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\Vaje1\Nakjluca_stevila\obj\Debug\Nakjluca_stevila.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\Vaje1\Nakjluca_stevila\obj\Debug\Nakjluca_stevila.exe
+C:\Users\Jurij\Desktop\Vaje1\Nakjluca_stevila\obj\Debug\Nakjluca_stevila.pdb

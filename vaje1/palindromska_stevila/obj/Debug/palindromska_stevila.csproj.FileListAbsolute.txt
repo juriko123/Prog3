@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\c#\vaje1\palindromska_stevila\bin\Debug\palindromska_stevila.exe.config
+C:\Users\Jurij\Desktop\c#\vaje1\palindromska_stevila\bin\Debug\palindromska_stevila.exe
+C:\Users\Jurij\Desktop\c#\vaje1\palindromska_stevila\bin\Debug\palindromska_stevila.pdb
+C:\Users\Jurij\Desktop\c#\vaje1\palindromska_stevila\obj\Debug\palindromska_stevila.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\vaje1\palindromska_stevila\obj\Debug\palindromska_stevila.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\vaje1\palindromska_stevila\obj\Debug\palindromska_stevila.exe
+C:\Users\Jurij\Desktop\c#\vaje1\palindromska_stevila\obj\Debug\palindromska_stevila.pdb

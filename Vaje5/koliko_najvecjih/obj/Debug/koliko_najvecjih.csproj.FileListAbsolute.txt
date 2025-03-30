@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\c#\Vaje5\koliko_najvecjih\bin\Debug\koliko_najvecjih.exe.config
+C:\Users\Jurij\Desktop\c#\Vaje5\koliko_najvecjih\bin\Debug\koliko_najvecjih.exe
+C:\Users\Jurij\Desktop\c#\Vaje5\koliko_najvecjih\bin\Debug\koliko_najvecjih.pdb
+C:\Users\Jurij\Desktop\c#\Vaje5\koliko_najvecjih\obj\Debug\koliko_najvecjih.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\Vaje5\koliko_najvecjih\obj\Debug\koliko_najvecjih.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\Vaje5\koliko_najvecjih\obj\Debug\koliko_najvecjih.exe
+C:\Users\Jurij\Desktop\c#\Vaje5\koliko_najvecjih\obj\Debug\koliko_najvecjih.pdb

@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\c#\Vaje6\Kosarica\bin\Debug\Kosarica.exe.config
+C:\Users\Jurij\Desktop\c#\Vaje6\Kosarica\bin\Debug\Kosarica.exe
+C:\Users\Jurij\Desktop\c#\Vaje6\Kosarica\bin\Debug\Kosarica.pdb
+C:\Users\Jurij\Desktop\c#\Vaje6\Kosarica\obj\Debug\Kosarica.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\Vaje6\Kosarica\obj\Debug\Kosarica.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\Vaje6\Kosarica\obj\Debug\Kosarica.exe
+C:\Users\Jurij\Desktop\c#\Vaje6\Kosarica\obj\Debug\Kosarica.pdb

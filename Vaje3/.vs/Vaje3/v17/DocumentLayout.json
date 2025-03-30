@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{350FF153-5104-45AB-B9CA-CE00B53BFB78}|datotekanakljucnih_stevil\\datotekanakljucnih_stevil.csproj|C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\datotekanakljucnih_stevil\\datoteka_nakljucnih_stevil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350FF153-5104-45AB-B9CA-CE00B53BFB78}|datotekanakljucnih_stevil\\datotekanakljucnih_stevil.csproj|solutionrelative:datotekanakljucnih_stevil\\datoteka_nakljucnih_stevil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA6A1E8-4B25-44FD-AD79-465A4A12D672}|nakljucna_stevila\\nakljucna_stevila.csproj|c:\\users\\jurij\\desktop\\c#\\vaje3\\nakljucna_stevila\\nakljucnastevila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA6A1E8-4B25-44FD-AD79-465A4A12D672}|nakljucna_stevila\\nakljucna_stevila.csproj|solutionrelative:nakljucna_stevila\\nakljucnastevila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B521391-A5E9-4B59-ADCA-9C89A1DD6B68}|mojaDatoteka\\mojaDatoteka.csproj|c:\\users\\jurij\\desktop\\c#\\vaje3\\mojadatoteka\\mojadatoteka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B521391-A5E9-4B59-ADCA-9C89A1DD6B68}|mojaDatoteka\\mojaDatoteka.csproj|solutionrelative:mojadatoteka\\mojadatoteka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8EDD626-E409-4267-9362-12E4DCA66489}|zamenjava_elementov\\zamenjava_elementov.csproj|C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\zamenjava_elementov\\zamenjava_el.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8EDD626-E409-4267-9362-12E4DCA66489}|zamenjava_elementov\\zamenjava_elementov.csproj|solutionrelative:zamenjava_elementov\\zamenjava_el.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F022BAC-55A3-4C3B-AD67-A0B6F4D79C4A}|v_gore\\v_gore.csproj|C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\v_gore\\vgore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F022BAC-55A3-4C3B-AD67-A0B6F4D79C4A}|v_gore\\v_gore.csproj|solutionrelative:v_gore\\vgore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1177C245-921D-4C1C-9ACD-A52145400A3A}|trojkPaNe\\trojkPaNe.csproj|C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\trojkpane\\trojkpane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1177C245-921D-4C1C-9ACD-A52145400A3A}|trojkPaNe\\trojkPaNe.csproj|solutionrelative:trojkpane\\trojkpane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E87D0DF-88EA-47E6-BF12-48B2C6557091}|PodvojiVelikost\\PodvojiVelikost.csproj|C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\podvojivelikost\\podvojivelikost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E87D0DF-88EA-47E6-BF12-48B2C6557091}|PodvojiVelikost\\PodvojiVelikost.csproj|solutionrelative:podvojivelikost\\podvojivelikost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NakljucnaStevila.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\nakljucna_stevila\\NakljucnaStevila.cs",
+              "RelativeDocumentMoniker": "nakljucna_stevila\\NakljucnaStevila.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\nakljucna_stevila\\NakljucnaStevila.cs",
+              "RelativeToolTip": "nakljucna_stevila\\NakljucnaStevila.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T22:04:34.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MojaDatoteka.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\mojaDatoteka\\MojaDatoteka.cs",
+              "RelativeDocumentMoniker": "mojaDatoteka\\MojaDatoteka.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\mojaDatoteka\\MojaDatoteka.cs",
+              "RelativeToolTip": "mojaDatoteka\\MojaDatoteka.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T23:56:53.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Datoteka_nakljucnih_stevil.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\datotekanakljucnih_stevil\\Datoteka_nakljucnih_stevil.cs",
+              "RelativeDocumentMoniker": "datotekanakljucnih_stevil\\Datoteka_nakljucnih_stevil.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\datotekanakljucnih_stevil\\Datoteka_nakljucnih_stevil.cs",
+              "RelativeToolTip": "datotekanakljucnih_stevil\\Datoteka_nakljucnih_stevil.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T23:56:40.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Zamenjava_el.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\zamenjava_elementov\\Zamenjava_el.cs",
+              "RelativeDocumentMoniker": "zamenjava_elementov\\Zamenjava_el.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\zamenjava_elementov\\Zamenjava_el.cs",
+              "RelativeToolTip": "zamenjava_elementov\\Zamenjava_el.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:06:55.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vgore.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\v_gore\\Vgore.cs",
+              "RelativeDocumentMoniker": "v_gore\\Vgore.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\v_gore\\Vgore.cs",
+              "RelativeToolTip": "v_gore\\Vgore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:06:51.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Trojkpane.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\trojkPaNe\\Trojkpane.cs",
+              "RelativeDocumentMoniker": "trojkPaNe\\Trojkpane.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\trojkPaNe\\Trojkpane.cs",
+              "RelativeToolTip": "trojkPaNe\\Trojkpane.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:06:48.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "podvojiVelikost.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\PodvojiVelikost\\podvojiVelikost.cs",
+              "RelativeDocumentMoniker": "PodvojiVelikost\\podvojiVelikost.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\PodvojiVelikost\\podvojiVelikost.cs",
+              "RelativeToolTip": "PodvojiVelikost\\podvojiVelikost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:03:49.599Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

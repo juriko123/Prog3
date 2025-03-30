@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\c#\vaje2\goljufivi_pek\bin\Debug\goljufivi_pek.exe.config
+C:\Users\Jurij\Desktop\c#\vaje2\goljufivi_pek\bin\Debug\goljufivi_pek.exe
+C:\Users\Jurij\Desktop\c#\vaje2\goljufivi_pek\bin\Debug\goljufivi_pek.pdb
+C:\Users\Jurij\Desktop\c#\vaje2\goljufivi_pek\obj\Debug\goljufivi_pek.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\vaje2\goljufivi_pek\obj\Debug\goljufivi_pek.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\vaje2\goljufivi_pek\obj\Debug\goljufivi_pek.exe
+C:\Users\Jurij\Desktop\c#\vaje2\goljufivi_pek\obj\Debug\goljufivi_pek.pdb

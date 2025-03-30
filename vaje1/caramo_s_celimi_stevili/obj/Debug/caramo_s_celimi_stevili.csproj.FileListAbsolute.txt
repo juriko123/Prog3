@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\c#\vaje1\caramo_s_celimi_stevili\bin\Debug\caramo_s_celimi_stevili.exe.config
+C:\Users\Jurij\Desktop\c#\vaje1\caramo_s_celimi_stevili\bin\Debug\caramo_s_celimi_stevili.exe
+C:\Users\Jurij\Desktop\c#\vaje1\caramo_s_celimi_stevili\bin\Debug\caramo_s_celimi_stevili.pdb
+C:\Users\Jurij\Desktop\c#\vaje1\caramo_s_celimi_stevili\obj\Debug\caramo_s_celimi_stevili.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\vaje1\caramo_s_celimi_stevili\obj\Debug\caramo_s_celimi_stevili.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\vaje1\caramo_s_celimi_stevili\obj\Debug\caramo_s_celimi_stevili.exe
+C:\Users\Jurij\Desktop\c#\vaje1\caramo_s_celimi_stevili\obj\Debug\caramo_s_celimi_stevili.pdb

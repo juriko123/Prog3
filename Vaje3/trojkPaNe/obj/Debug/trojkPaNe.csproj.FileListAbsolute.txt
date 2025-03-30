@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\c#\Vaje3\trojkPaNe\bin\Debug\trojkPaNe.exe.config
+C:\Users\Jurij\Desktop\c#\Vaje3\trojkPaNe\bin\Debug\trojkPaNe.exe
+C:\Users\Jurij\Desktop\c#\Vaje3\trojkPaNe\bin\Debug\trojkPaNe.pdb
+C:\Users\Jurij\Desktop\c#\Vaje3\trojkPaNe\obj\Debug\trojkPaNe.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\Vaje3\trojkPaNe\obj\Debug\trojkPaNe.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\Vaje3\trojkPaNe\obj\Debug\trojkPaNe.exe
+C:\Users\Jurij\Desktop\c#\Vaje3\trojkPaNe\obj\Debug\trojkPaNe.pdb

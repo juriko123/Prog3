@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\c#\Vaje4\tabeliraj\bin\Debug\tabeliraj.exe.config
+C:\Users\Jurij\Desktop\c#\Vaje4\tabeliraj\bin\Debug\tabeliraj.exe
+C:\Users\Jurij\Desktop\c#\Vaje4\tabeliraj\bin\Debug\tabeliraj.pdb
+C:\Users\Jurij\Desktop\c#\Vaje4\tabeliraj\obj\Debug\tabeliraj.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\Vaje4\tabeliraj\obj\Debug\tabeliraj.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\Vaje4\tabeliraj\obj\Debug\tabeliraj.exe
+C:\Users\Jurij\Desktop\c#\Vaje4\tabeliraj\obj\Debug\tabeliraj.pdb

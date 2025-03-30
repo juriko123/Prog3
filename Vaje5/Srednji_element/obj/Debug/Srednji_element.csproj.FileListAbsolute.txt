@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\c#\Vaje5\Srednji_element\obj\Debug\Srednji_element.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\Vaje5\Srednji_element\obj\Debug\Srednji_element.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\Vaje5\Srednji_element\bin\Debug\Srednji_element.exe.config
+C:\Users\Jurij\Desktop\c#\Vaje5\Srednji_element\bin\Debug\Srednji_element.exe
+C:\Users\Jurij\Desktop\c#\Vaje5\Srednji_element\bin\Debug\Srednji_element.pdb
+C:\Users\Jurij\Desktop\c#\Vaje5\Srednji_element\obj\Debug\Srednji_element.exe
+C:\Users\Jurij\Desktop\c#\Vaje5\Srednji_element\obj\Debug\Srednji_element.pdb

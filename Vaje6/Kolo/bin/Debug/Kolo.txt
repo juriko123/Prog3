@@ -1,0 +1,8 @@
+6,Modre,Športne,2011,2
+3,Zelena,Cestno,2025,2
+6,Rdeča,Gorsko,2025,3
+6,Modre,Športne,2011,2
+3,Zelena,Cestno,2025,2
+6,Rdeča,Gorsko,2025,3
+6,Rumena,Gorsko,2022,3
+5,Rumena,Športno,2012,2

@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\c#\Vaje3\judgingTroubles\bin\Debug\judgingTroubles.exe.config
+C:\Users\Jurij\Desktop\c#\Vaje3\judgingTroubles\bin\Debug\judgingTroubles.exe
+C:\Users\Jurij\Desktop\c#\Vaje3\judgingTroubles\bin\Debug\judgingTroubles.pdb
+C:\Users\Jurij\Desktop\c#\Vaje3\judgingTroubles\obj\Debug\judgingTroubles.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\Vaje3\judgingTroubles\obj\Debug\judgingTroubles.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\Vaje3\judgingTroubles\obj\Debug\judgingTroubles.exe
+C:\Users\Jurij\Desktop\c#\Vaje3\judgingTroubles\obj\Debug\judgingTroubles.pdb

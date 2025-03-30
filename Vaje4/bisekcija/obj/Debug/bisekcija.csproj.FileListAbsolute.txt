@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\c#\Vaje4\bisekcija\bin\Debug\bisekcija.exe.config
+C:\Users\Jurij\Desktop\c#\Vaje4\bisekcija\bin\Debug\bisekcija.exe
+C:\Users\Jurij\Desktop\c#\Vaje4\bisekcija\bin\Debug\bisekcija.pdb
+C:\Users\Jurij\Desktop\c#\Vaje4\bisekcija\obj\Debug\bisekcija.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\Vaje4\bisekcija\obj\Debug\bisekcija.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\Vaje4\bisekcija\obj\Debug\bisekcija.exe
+C:\Users\Jurij\Desktop\c#\Vaje4\bisekcija\obj\Debug\bisekcija.pdb

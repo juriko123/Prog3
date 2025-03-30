@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\Vaje1\popravi\bin\Debug\popravi.exe.config
+C:\Users\Jurij\Desktop\Vaje1\popravi\bin\Debug\popravi.exe
+C:\Users\Jurij\Desktop\Vaje1\popravi\bin\Debug\popravi.pdb
+C:\Users\Jurij\Desktop\Vaje1\popravi\obj\Debug\popravi.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\Vaje1\popravi\obj\Debug\popravi.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\Vaje1\popravi\obj\Debug\popravi.exe
+C:\Users\Jurij\Desktop\Vaje1\popravi\obj\Debug\popravi.pdb

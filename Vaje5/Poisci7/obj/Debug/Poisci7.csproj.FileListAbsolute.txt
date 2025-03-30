@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\c#\Vaje5\Poisci7\bin\Debug\Poisci7.exe.config
+C:\Users\Jurij\Desktop\c#\Vaje5\Poisci7\bin\Debug\Poisci7.exe
+C:\Users\Jurij\Desktop\c#\Vaje5\Poisci7\bin\Debug\Poisci7.pdb
+C:\Users\Jurij\Desktop\c#\Vaje5\Poisci7\obj\Debug\Poisci7.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\Vaje5\Poisci7\obj\Debug\Poisci7.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\Vaje5\Poisci7\obj\Debug\Poisci7.exe
+C:\Users\Jurij\Desktop\c#\Vaje5\Poisci7\obj\Debug\Poisci7.pdb

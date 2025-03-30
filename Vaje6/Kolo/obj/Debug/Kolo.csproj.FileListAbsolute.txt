@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\c#\Vaje6\Kolo\bin\Debug\Kolo.exe.config
+C:\Users\Jurij\Desktop\c#\Vaje6\Kolo\bin\Debug\Kolo.exe
+C:\Users\Jurij\Desktop\c#\Vaje6\Kolo\bin\Debug\Kolo.pdb
+C:\Users\Jurij\Desktop\c#\Vaje6\Kolo\obj\Debug\Kolo.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\Vaje6\Kolo\obj\Debug\Kolo.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\Vaje6\Kolo\obj\Debug\Kolo.exe
+C:\Users\Jurij\Desktop\c#\Vaje6\Kolo\obj\Debug\Kolo.pdb

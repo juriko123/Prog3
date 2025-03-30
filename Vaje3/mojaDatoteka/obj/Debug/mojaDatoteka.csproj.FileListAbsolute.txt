@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\c#\Vaje3\mojaDatoteka\bin\Debug\mojaDatoteka.exe.config
+C:\Users\Jurij\Desktop\c#\Vaje3\mojaDatoteka\bin\Debug\mojaDatoteka.exe
+C:\Users\Jurij\Desktop\c#\Vaje3\mojaDatoteka\bin\Debug\mojaDatoteka.pdb
+C:\Users\Jurij\Desktop\c#\Vaje3\mojaDatoteka\obj\Debug\mojaDatoteka.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\Vaje3\mojaDatoteka\obj\Debug\mojaDatoteka.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\Vaje3\mojaDatoteka\obj\Debug\mojaDatoteka.exe
+C:\Users\Jurij\Desktop\c#\Vaje3\mojaDatoteka\obj\Debug\mojaDatoteka.pdb

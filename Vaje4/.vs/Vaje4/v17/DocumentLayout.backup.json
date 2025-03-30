@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4B3A7F-2613-442D-BE1B-1F799EE1548B}|prozenje_napak\\prozenje_napak.csproj|C:\\Users\\Jurij\\Desktop\\c#\\Vaje4\\prozenje_napak\\nicle_kvdratne_enacbe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B4B3A7F-2613-442D-BE1B-1F799EE1548B}|prozenje_napak\\prozenje_napak.csproj|solutionrelative:prozenje_napak\\nicle_kvdratne_enacbe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3285FEC-E621-4E4D-905F-D2F5CEAE9186}|minmax1\\minmax1.csproj|c:\\users\\jurij\\desktop\\c#\\vaje4\\minmax1\\minmax1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3285FEC-E621-4E4D-905F-D2F5CEAE9186}|minmax1\\minmax1.csproj|solutionrelative:minmax1\\minmax1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFE4578-8986-4321-8286-EA67AF16CC8D}|vsote2\\vsote2.csproj|C:\\Users\\Jurij\\Desktop\\c#\\Vaje4\\vsote2\\vsote2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFE4578-8986-4321-8286-EA67AF16CC8D}|vsote2\\vsote2.csproj|solutionrelative:vsote2\\vsote2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D1DB1E-4C4D-4FD1-8860-86E4FC09A57F}|bisekcija\\bisekcija.csproj|C:\\Users\\Jurij\\Desktop\\c#\\Vaje4\\bisekcija\\bisekcija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D1DB1E-4C4D-4FD1-8860-86E4FC09A57F}|bisekcija\\bisekcija.csproj|solutionrelative:bisekcija\\bisekcija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1285A06D-0710-4D04-BAD9-4201196A9AB0}|vsote1\\vsote1.csproj|C:\\Users\\Jurij\\Desktop\\c#\\Vaje4\\vsote1\\vsote1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1285A06D-0710-4D04-BAD9-4201196A9AB0}|vsote1\\vsote1.csproj|solutionrelative:vsote1\\vsote1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47F77FF-CAF0-4A3F-82AF-F932149CB419}|preberiInt\\preberiInt.csproj|C:\\Users\\Jurij\\Desktop\\c#\\Vaje4\\preberiint\\preberiint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47F77FF-CAF0-4A3F-82AF-F932149CB419}|preberiInt\\preberiInt.csproj|solutionrelative:preberiint\\preberiint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91A583E-54FA-4154-9425-3F75172D8885}|IzpisTabele\\IzpisTabele.csproj|C:\\Users\\Jurij\\Desktop\\c#\\Vaje4\\izpistabele\\izzzpisitabele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91A583E-54FA-4154-9425-3F75172D8885}|IzpisTabele\\IzpisTabele.csproj|solutionrelative:izpistabele\\izzzpisitabele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760C5A86-E471-4379-823A-7850343F2254}|dopolni_program_II\\dopolni_program_II.csproj|C:\\Users\\Jurij\\Desktop\\c#\\Vaje4\\dopolni_program_ii\\dopolni_program_ii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760C5A86-E471-4379-823A-7850343F2254}|dopolni_program_II\\dopolni_program_II.csproj|solutionrelative:dopolni_program_ii\\dopolni_program_ii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81B57A1-361B-427E-88D2-81A7A842970D}|tabeliraj\\tabeliraj.csproj|C:\\Users\\Jurij\\Desktop\\c#\\Vaje4\\tabeliraj\\tabeliraj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81B57A1-361B-427E-88D2-81A7A842970D}|tabeliraj\\tabeliraj.csproj|solutionrelative:tabeliraj\\tabeliraj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "nicle_kvdratne_enacbe.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje4\\prozenje_napak\\nicle_kvdratne_enacbe.cs",
+              "RelativeDocumentMoniker": "prozenje_napak\\nicle_kvdratne_enacbe.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje4\\prozenje_napak\\nicle_kvdratne_enacbe.cs",
+              "RelativeToolTip": "prozenje_napak\\nicle_kvdratne_enacbe.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T17:29:11.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vsote2.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje4\\vsote2\\Vsote2.cs",
+              "RelativeDocumentMoniker": "vsote2\\Vsote2.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje4\\vsote2\\Vsote2.cs",
+              "RelativeToolTip": "vsote2\\Vsote2.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:28:06.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vsote1.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje4\\vsote1\\Vsote1.cs",
+              "RelativeDocumentMoniker": "vsote1\\Vsote1.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje4\\vsote1\\Vsote1.cs",
+              "RelativeToolTip": "vsote1\\Vsote1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:12:03.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Minmax1.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje4\\minmax1\\Minmax1.cs",
+              "RelativeDocumentMoniker": "minmax1\\Minmax1.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje4\\minmax1\\Minmax1.cs",
+              "RelativeToolTip": "minmax1\\Minmax1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwDIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:39:51.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bisekcija.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje4\\bisekcija\\Bisekcija.cs",
+              "RelativeDocumentMoniker": "bisekcija\\Bisekcija.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje4\\bisekcija\\Bisekcija.cs",
+              "RelativeToolTip": "bisekcija\\Bisekcija.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:55:25.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Izzzpisitabele.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje4\\IzpisTabele\\Izzzpisitabele.cs",
+              "RelativeDocumentMoniker": "IzpisTabele\\Izzzpisitabele.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje4\\IzpisTabele\\Izzzpisitabele.cs",
+              "RelativeToolTip": "IzpisTabele\\Izzzpisitabele.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T01:35:28.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PreberiInt.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje4\\preberiInt\\PreberiInt.cs",
+              "RelativeDocumentMoniker": "preberiInt\\PreberiInt.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje4\\preberiInt\\PreberiInt.cs",
+              "RelativeToolTip": "preberiInt\\PreberiInt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T20:12:50.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tabeliraj.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje4\\tabeliraj\\Tabeliraj.cs",
+              "RelativeDocumentMoniker": "tabeliraj\\Tabeliraj.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje4\\tabeliraj\\Tabeliraj.cs",
+              "RelativeToolTip": "tabeliraj\\Tabeliraj.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwEwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T20:12:19.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dopolni_program_ii.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje4\\dopolni_program_II\\Dopolni_program_ii.cs",
+              "RelativeDocumentMoniker": "dopolni_program_II\\Dopolni_program_ii.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje4\\dopolni_program_II\\Dopolni_program_ii.cs",
+              "RelativeToolTip": "dopolni_program_II\\Dopolni_program_ii.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:18:50.87Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

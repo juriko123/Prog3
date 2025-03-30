@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\c#\Vaje4\dopolni_program_I\bin\Debug\dopolni_program_I.exe.config
+C:\Users\Jurij\Desktop\c#\Vaje4\dopolni_program_I\bin\Debug\dopolni_program_I.exe
+C:\Users\Jurij\Desktop\c#\Vaje4\dopolni_program_I\bin\Debug\dopolni_program_I.pdb
+C:\Users\Jurij\Desktop\c#\Vaje4\dopolni_program_I\obj\Debug\dopolni_program_I.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\Vaje4\dopolni_program_I\obj\Debug\dopolni_program_I.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\Vaje4\dopolni_program_I\obj\Debug\dopolni_program_I.exe
+C:\Users\Jurij\Desktop\c#\Vaje4\dopolni_program_I\obj\Debug\dopolni_program_I.pdb

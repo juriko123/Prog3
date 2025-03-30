@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\c#\Vaje5\Nicle_kv_enacbe\bin\Debug\Nicle_kv_enacbe.exe.config
+C:\Users\Jurij\Desktop\c#\Vaje5\Nicle_kv_enacbe\bin\Debug\Nicle_kv_enacbe.exe
+C:\Users\Jurij\Desktop\c#\Vaje5\Nicle_kv_enacbe\bin\Debug\Nicle_kv_enacbe.pdb
+C:\Users\Jurij\Desktop\c#\Vaje5\Nicle_kv_enacbe\obj\Debug\Nicle_kv_enacbe.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\Vaje5\Nicle_kv_enacbe\obj\Debug\Nicle_kv_enacbe.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\Vaje5\Nicle_kv_enacbe\obj\Debug\Nicle_kv_enacbe.exe
+C:\Users\Jurij\Desktop\c#\Vaje5\Nicle_kv_enacbe\obj\Debug\Nicle_kv_enacbe.pdb
