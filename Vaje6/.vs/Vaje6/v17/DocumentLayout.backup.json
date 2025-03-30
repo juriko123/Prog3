@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje6\\",
+  "WorkspaceRootPath": "C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\Vaje6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B645BF2-8354-4E3F-8A95-9EF4603A828D}|Vozilo\\Vozilo.csproj|c:\\users\\jurij\\desktop\\c#\\vaje6\\vozilo\\vozilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B645BF2-8354-4E3F-8A95-9EF4603A828D}|Vozilo\\Vozilo.csproj|c:\\users\\jurij\\desktop\\c#\\prog3\\vaje6\\vozilo\\vozilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B645BF2-8354-4E3F-8A95-9EF4603A828D}|Vozilo\\Vozilo.csproj|solutionrelative:vozilo\\vozilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B607CBB-B1D6-4748-A7F6-4C40C0FAB4ED}|Kosarica\\Kosarica.csproj|C:\\Users\\Jurij\\Desktop\\c#\\Vaje6\\kosarica\\kosarica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B607CBB-B1D6-4748-A7F6-4C40C0FAB4ED}|Kosarica\\Kosarica.csproj|C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\Vaje6\\kosarica\\kosarica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B607CBB-B1D6-4748-A7F6-4C40C0FAB4ED}|Kosarica\\Kosarica.csproj|solutionrelative:kosarica\\kosarica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{984A15FD-280E-4A99-A95C-F83380AD728C}|Kolo\\Kolo.csproj|C:\\Users\\Jurij\\Desktop\\c#\\Vaje6\\kolo\\kolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{984A15FD-280E-4A99-A95C-F83380AD728C}|Kolo\\Kolo.csproj|C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\Vaje6\\kolo\\kolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{984A15FD-280E-4A99-A95C-F83380AD728C}|Kolo\\Kolo.csproj|solutionrelative:kolo\\kolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{153BD9F4-183F-48AA-A201-2722F189338F}|Registracija\\Registracija.csproj|C:\\Users\\Jurij\\Desktop\\c#\\Vaje6\\registracija\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{153BD9F4-183F-48AA-A201-2722F189338F}|Registracija\\Registracija.csproj|C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\Vaje6\\registracija\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{153BD9F4-183F-48AA-A201-2722F189338F}|Registracija\\Registracija.csproj|solutionrelative:registracija\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje6\\Registracija\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\Vaje6\\Registracija\\Program.cs",
               "RelativeDocumentMoniker": "Registracija\\Program.cs",
-              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje6\\Registracija\\Program.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\Vaje6\\Registracija\\Program.cs",
               "RelativeToolTip": "Registracija\\Program.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAAAAwKAAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -44,9 +44,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Kolo.cs",
-              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje6\\Kolo\\Kolo.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\Vaje6\\Kolo\\Kolo.cs",
               "RelativeDocumentMoniker": "Kolo\\Kolo.cs",
-              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje6\\Kolo\\Kolo.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\Vaje6\\Kolo\\Kolo.cs",
               "RelativeToolTip": "Kolo\\Kolo.cs",
               "ViewState": "AgIAAFUAAAAAAAAAAAAmwKkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -56,9 +56,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "kosarica.cs",
-              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje6\\Kosarica\\kosarica.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\Vaje6\\Kosarica\\kosarica.cs",
               "RelativeDocumentMoniker": "Kosarica\\kosarica.cs",
-              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje6\\Kosarica\\kosarica.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\Vaje6\\Kosarica\\kosarica.cs",
               "RelativeToolTip": "Kosarica\\kosarica.cs",
               "ViewState": "AgIAAEoAAAAAAAAAAAAAwFwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -68,11 +68,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Vozilo.cs",
-              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje6\\Vozilo\\Vozilo.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\Vaje6\\Vozilo\\Vozilo.cs",
               "RelativeDocumentMoniker": "Vozilo\\Vozilo.cs",
-              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje6\\Vozilo\\Vozilo.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\Vaje6\\Vozilo\\Vozilo.cs",
               "RelativeToolTip": "Vozilo\\Vozilo.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAiwHsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAiwHgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T04:32:27.647Z",
               "EditorCaption": ""
