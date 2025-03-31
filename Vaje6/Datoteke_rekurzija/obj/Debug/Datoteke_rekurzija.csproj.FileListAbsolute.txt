@@ -1,0 +1,7 @@
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje6\Datoteke_rekurzija\bin\Debug\Datoteke_rekurzija.exe.config
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje6\Datoteke_rekurzija\bin\Debug\Datoteke_rekurzija.exe
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje6\Datoteke_rekurzija\bin\Debug\Datoteke_rekurzija.pdb
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje6\Datoteke_rekurzija\obj\Debug\Datoteke_rekurzija.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje6\Datoteke_rekurzija\obj\Debug\Datoteke_rekurzija.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje6\Datoteke_rekurzija\obj\Debug\Datoteke_rekurzija.exe
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje6\Datoteke_rekurzija\obj\Debug\Datoteke_rekurzija.pdb

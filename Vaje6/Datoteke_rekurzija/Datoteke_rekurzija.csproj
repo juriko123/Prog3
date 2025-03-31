@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{153BD9F4-183F-48AA-A201-2722F189338F}</ProjectGuid>
+    <ProjectGuid>{409E7320-DACB-4579-9FF7-6B5D0D14D213}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Registracija</RootNamespace>
-    <AssemblyName>Registracija</AssemblyName>
+    <RootNamespace>Datoteke_rekurzija</RootNamespace>
+    <AssemblyName>Datoteke_rekurzija</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Registracije.cs" />
+    <Compile Include="Datoteke.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

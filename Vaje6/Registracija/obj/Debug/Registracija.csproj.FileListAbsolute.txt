@@ -5,3 +5,10 @@ C:\Users\Jurij\Desktop\c#\Vaje6\Registracija\obj\Debug\Registracija.csproj.Assem
 C:\Users\Jurij\Desktop\c#\Vaje6\Registracija\obj\Debug\Registracija.csproj.CoreCompileInputs.cache
 C:\Users\Jurij\Desktop\c#\Vaje6\Registracija\obj\Debug\Registracija.exe
 C:\Users\Jurij\Desktop\c#\Vaje6\Registracija\obj\Debug\Registracija.pdb
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje6\Registracija\bin\Debug\Registracija.exe.config
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje6\Registracija\bin\Debug\Registracija.exe
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje6\Registracija\bin\Debug\Registracija.pdb
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje6\Registracija\obj\Debug\Registracija.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje6\Registracija\obj\Debug\Registracija.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje6\Registracija\obj\Debug\Registracija.exe
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje6\Registracija\obj\Debug\Registracija.pdb
