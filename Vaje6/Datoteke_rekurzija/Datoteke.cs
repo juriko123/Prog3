@@ -9,6 +9,12 @@ namespace Datoteke_rekurzija
 {
     class Program
     {
+        /// <summary>
+        /// Rekurzivno preišče vse imenike in poišče tiste, ki vsebujejo iskano datoteko.
+        /// </summary>
+        /// <param name="trenutniImenik">Trenutni imenik, ki ga pregledujemo.</param>
+        /// <param name="datoteka">Ime iskane datoteke.</param>
+        /// <param name="iskano">Seznam imenikov, ki vsebujejo iskano datoteko.</param>
         static void NajdiImeniki(string trenutniImenik, string datoteka, List<string> iskano)
         {
             if (Directory.Exists(trenutniImenik)) // Preverimo, ali imenik obstaja
