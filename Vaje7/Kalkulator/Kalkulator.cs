@@ -15,6 +15,8 @@ namespace Kalkulator
     {
         private double prvo_stevilo = 0;
         private string rac_operacija = "";
+        private double drugo_stevilo;
+        private double rezultat = 0;
         public Kalkulator()
         {
             InitializeComponent();
@@ -39,46 +41,55 @@ namespace Kalkulator
 
         private void gmbJeEnako_Click(object sender, EventArgs e)
         {
-            double drugo_stevilo;
-            double rezultat = 0;
+            double shrani_drugo_stevilo = double.Parse(this.lblNapis.Text);
+            
+            
+            this.drugo_stevilo = double.Parse(this.lblNapis.Text);
 
-            if (rac_operacija != "")
+            if (this.rac_operacija != "")
             {
-                drugo_stevilo = double.Parse(this.lblNapis.Text);
                 if (rac_operacija == "+")
                 {
-                    rezultat = prvo_stevilo + drugo_stevilo;
+                    this.rezultat = this.prvo_stevilo + this.drugo_stevilo;
                 }
-                else if (rac_operacija == "-")
+                else if (this.rac_operacija == "-")
                 {
-                    rezultat = prvo_stevilo - drugo_stevilo;
+                    this.rezultat = this.prvo_stevilo - this.drugo_stevilo;
                 }
                 else if (rac_operacija == "*")
                 {
-                    rezultat = prvo_stevilo * drugo_stevilo;
+                    this.rezultat = this.prvo_stevilo * this.drugo_stevilo;
                 }
-                else if (rac_operacija == "mod")
+                else if (rac_operacija == "Mod")
                 {
-                    rezultat = prvo_stevilo % drugo_stevilo;
+                    this.rezultat = this.prvo_stevilo % this.drugo_stevilo;
                 }
-                else if (rac_operacija == "Log")
+                else if (this.rac_operacija == "Log")
                 {
-                    rezultat = Math.Log(prvo_stevilo, drugo_stevilo);
+                    this.rezultat = Math.Log(this.prvo_stevilo, this.drugo_stevilo);
                 }
                 else
                 {
-                    rezultat = prvo_stevilo / drugo_stevilo;
+                    this.rezultat = this.prvo_stevilo / this.drugo_stevilo;
                 }
 
-                if (rac_operacija == "/" && drugo_stevilo == 0)
+                if (this.rac_operacija == "/" && this.drugo_stevilo == 0)
                     this.lblNapis.Text = "Z 0 ni mogoče deliti";
-                
+
+                else if (this.rac_operacija == "Log" && this.drugo_stevilo == 0)
+                    this.lblNapis.Text = "Stevilo> 0";
+
                 else
-                    this.lblNapis.Text = rezultat.ToString();
+                {
+                    this.lblNapis.Text = this.rezultat.ToString();
+                }
 
             }
             else
+            {
                 this.lblNapis.Text = "0";
+            }
+            this.rac_operacija = "";
         }
 
         private void gmbClear_Click(object sender, EventArgs e)
@@ -96,7 +107,8 @@ namespace Kalkulator
 
         private void gmbDecimalna_vejica_Click(object sender, EventArgs e)
         {
-            this.lblNapis.Text = this.lblNapis.Text + ",";
+            if (!this.lblNapis.Text.Contains(","))
+                this.lblNapis.Text = this.lblNapis.Text + ",";
         }
     }
 }

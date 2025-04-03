@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{31E87194-7415-44CC-B75E-8F1D513D601D}|Kalkulator\\Kalkulator.csproj|solutionrelative:kalkulator\\kalkulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31E87194-7415-44CC-B75E-8F1D513D601D}|Kalkulator\\Kalkulator.csproj|c:\\users\\jurij\\desktop\\c#\\prog3\\vaje7\\kalkulator\\kalkulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{31E87194-7415-44CC-B75E-8F1D513D601D}|Kalkulator\\Kalkulator.csproj|C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\Vaje7\\kalkulator\\kalkulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{31E87194-7415-44CC-B75E-8F1D513D601D}|Kalkulator\\Kalkulator.csproj|solutionrelative:kalkulator\\kalkulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Kalkulator\\Kalkulator.cs",
               "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\Vaje7\\Kalkulator\\Kalkulator.cs",
               "RelativeToolTip": "Kalkulator\\Kalkulator.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAIwEwAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwBIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T14:56:43.092Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\Vaje7\\Kalkulator\\Kalkulator.cs [Design]",
               "RelativeToolTip": "Kalkulator\\Kalkulator.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T14:56:38.018Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-03T14:56:38.018Z"
             }
           ]
         }
