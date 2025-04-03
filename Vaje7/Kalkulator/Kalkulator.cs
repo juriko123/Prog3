@@ -11,11 +11,11 @@ using System.Windows.Forms;
 
 namespace Kalkulator
 {
-    public partial class Form1: Form
+    public partial class Kalkulator: Form
     {
         private double prvo_stevilo = 0;
         private string rac_operacija = "";
-        public Form1()
+        public Kalkulator()
         {
             InitializeComponent();
         }

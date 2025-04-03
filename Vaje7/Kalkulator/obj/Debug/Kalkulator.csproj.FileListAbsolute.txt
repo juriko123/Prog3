@@ -2,9 +2,9 @@ C:\Users\Jurij\Desktop\c#\Prog3\Vaje7\Kalkulator\bin\Debug\Kalkulator.exe.config
 C:\Users\Jurij\Desktop\c#\Prog3\Vaje7\Kalkulator\bin\Debug\Kalkulator.exe
 C:\Users\Jurij\Desktop\c#\Prog3\Vaje7\Kalkulator\bin\Debug\Kalkulator.pdb
 C:\Users\Jurij\Desktop\c#\Prog3\Vaje7\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
-C:\Users\Jurij\Desktop\c#\Prog3\Vaje7\Kalkulator\obj\Debug\Kalkulator.Form1.resources
 C:\Users\Jurij\Desktop\c#\Prog3\Vaje7\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
 C:\Users\Jurij\Desktop\c#\Prog3\Vaje7\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
 C:\Users\Jurij\Desktop\c#\Prog3\Vaje7\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
 C:\Users\Jurij\Desktop\c#\Prog3\Vaje7\Kalkulator\obj\Debug\Kalkulator.exe
 C:\Users\Jurij\Desktop\c#\Prog3\Vaje7\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje7\Kalkulator\obj\Debug\Kalkulator.Kalkulator.resources
