@@ -69,9 +69,13 @@ namespace Kalkulator
                 {
                     rezultat = prvo_stevilo / drugo_stevilo;
                 }
+
+                if (rac_operacija == "/" && drugo_stevilo == 0)
+                    this.lblNapis.Text = "Z 0 ni mogoče deliti";
                 
-                this.lblNapis.Text = rezultat.ToString();
-                
+                else
+                    this.lblNapis.Text = rezultat.ToString();
+
             }
             else
                 this.lblNapis.Text = "0";
