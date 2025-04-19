@@ -1,0 +1,10 @@
+C:\Users\Jurij\Desktop\vaje8\Auboli\Naloga1\AuBoli\bin\Debug\AuBoli.exe.config
+C:\Users\Jurij\Desktop\vaje8\Auboli\Naloga1\AuBoli\bin\Debug\AuBoli.exe
+C:\Users\Jurij\Desktop\vaje8\Auboli\Naloga1\AuBoli\bin\Debug\AuBoli.pdb
+C:\Users\Jurij\Desktop\vaje8\Auboli\Naloga1\AuBoli\obj\Debug\AuBoli.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\vaje8\Auboli\Naloga1\AuBoli\obj\Debug\AuBoli.Properties.Resources.resources
+C:\Users\Jurij\Desktop\vaje8\Auboli\Naloga1\AuBoli\obj\Debug\AuBoli.csproj.GenerateResource.cache
+C:\Users\Jurij\Desktop\vaje8\Auboli\Naloga1\AuBoli\obj\Debug\AuBoli.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\vaje8\Auboli\Naloga1\AuBoli\obj\Debug\AuBoli.exe
+C:\Users\Jurij\Desktop\vaje8\Auboli\Naloga1\AuBoli\obj\Debug\AuBoli.pdb
+C:\Users\Jurij\Desktop\vaje8\Auboli\Naloga1\AuBoli\obj\Debug\AuBoli.AUboli.resources

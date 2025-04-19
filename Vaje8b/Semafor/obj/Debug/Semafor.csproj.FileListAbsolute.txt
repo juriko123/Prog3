@@ -1,0 +1,10 @@
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje8b\Semafor\bin\Debug\Semafor.exe.config
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje8b\Semafor\bin\Debug\Semafor.exe
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje8b\Semafor\bin\Debug\Semafor.pdb
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje8b\Semafor\obj\Debug\Semafor.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje8b\Semafor\obj\Debug\Semafor.Properties.Resources.resources
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje8b\Semafor\obj\Debug\Semafor.csproj.GenerateResource.cache
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje8b\Semafor\obj\Debug\Semafor.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje8b\Semafor\obj\Debug\Semafor.exe
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje8b\Semafor\obj\Debug\Semafor.pdb
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje8b\Semafor\obj\Debug\Semafor.Seemafor.resources

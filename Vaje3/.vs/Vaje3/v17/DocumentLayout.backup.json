@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B521391-A5E9-4B59-ADCA-9C89A1DD6B68}|mojaDatoteka\\mojaDatoteka.csproj|c:\\users\\jurij\\desktop\\c#\\vaje3\\mojadatoteka\\mojadatoteka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B521391-A5E9-4B59-ADCA-9C89A1DD6B68}|mojaDatoteka\\mojaDatoteka.csproj|solutionrelative:mojadatoteka\\mojadatoteka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{350FF153-5104-45AB-B9CA-CE00B53BFB78}|datotekanakljucnih_stevil\\datotekanakljucnih_stevil.csproj|C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\datotekanakljucnih_stevil\\datoteka_nakljucnih_stevil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{350FF153-5104-45AB-B9CA-CE00B53BFB78}|datotekanakljucnih_stevil\\datotekanakljucnih_stevil.csproj|solutionrelative:datotekanakljucnih_stevil\\datoteka_nakljucnih_stevil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA6A1E8-4B25-44FD-AD79-465A4A12D672}|nakljucna_stevila\\nakljucna_stevila.csproj|c:\\users\\jurij\\desktop\\c#\\vaje3\\nakljucna_stevila\\nakljucnastevila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA6A1E8-4B25-44FD-AD79-465A4A12D672}|nakljucna_stevila\\nakljucna_stevila.csproj|solutionrelative:nakljucna_stevila\\nakljucnastevila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B521391-A5E9-4B59-ADCA-9C89A1DD6B68}|mojaDatoteka\\mojaDatoteka.csproj|c:\\users\\jurij\\desktop\\c#\\vaje3\\mojadatoteka\\mojadatoteka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B521391-A5E9-4B59-ADCA-9C89A1DD6B68}|mojaDatoteka\\mojaDatoteka.csproj|solutionrelative:mojadatoteka\\mojadatoteka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8EDD626-E409-4267-9362-12E4DCA66489}|zamenjava_elementov\\zamenjava_elementov.csproj|C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\zamenjava_elementov\\zamenjava_el.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,36 +38,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "NakljucnaStevila.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\nakljucna_stevila\\NakljucnaStevila.cs",
+              "RelativeDocumentMoniker": "nakljucna_stevila\\NakljucnaStevila.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\nakljucna_stevila\\NakljucnaStevila.cs",
+              "RelativeToolTip": "nakljucna_stevila\\NakljucnaStevila.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T22:04:34.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MojaDatoteka.cs",
               "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\mojaDatoteka\\MojaDatoteka.cs",
               "RelativeDocumentMoniker": "mojaDatoteka\\MojaDatoteka.cs",
               "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\mojaDatoteka\\MojaDatoteka.cs",
               "RelativeToolTip": "mojaDatoteka\\MojaDatoteka.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wBUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-23T23:56:53.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Datoteka_nakljucnih_stevil.cs",
               "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\datotekanakljucnih_stevil\\Datoteka_nakljucnih_stevil.cs",
               "RelativeDocumentMoniker": "datotekanakljucnih_stevil\\Datoteka_nakljucnih_stevil.cs",
               "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\datotekanakljucnih_stevil\\Datoteka_nakljucnih_stevil.cs",
               "RelativeToolTip": "datotekanakljucnih_stevil\\Datoteka_nakljucnih_stevil.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T23:56:40.358Z"
+              "WhenOpened": "2025-03-23T23:56:40.358Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Zamenjava_el.cs",
               "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\zamenjava_elementov\\Zamenjava_el.cs",
               "RelativeDocumentMoniker": "zamenjava_elementov\\Zamenjava_el.cs",
@@ -75,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Vgore.cs",
               "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\v_gore\\Vgore.cs",
               "RelativeDocumentMoniker": "v_gore\\Vgore.cs",
@@ -87,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Trojkpane.cs",
               "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\trojkPaNe\\Trojkpane.cs",
               "RelativeDocumentMoniker": "trojkPaNe\\Trojkpane.cs",
@@ -99,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "podvojiVelikost.cs",
               "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Vaje3\\PodvojiVelikost\\podvojiVelikost.cs",
               "RelativeDocumentMoniker": "PodvojiVelikost\\podvojiVelikost.cs",

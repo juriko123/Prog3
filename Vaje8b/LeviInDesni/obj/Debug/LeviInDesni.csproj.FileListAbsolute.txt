@@ -1,0 +1,10 @@
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje8b\LeviInDesni\bin\Debug\LeviInDesni.exe.config
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje8b\LeviInDesni\bin\Debug\LeviInDesni.exe
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje8b\LeviInDesni\bin\Debug\LeviInDesni.pdb
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje8b\LeviInDesni\obj\Debug\LeviInDesni.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje8b\LeviInDesni\obj\Debug\LeviInDesni.LeviNDesni.resources
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje8b\LeviInDesni\obj\Debug\LeviInDesni.Properties.Resources.resources
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje8b\LeviInDesni\obj\Debug\LeviInDesni.csproj.GenerateResource.cache
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje8b\LeviInDesni\obj\Debug\LeviInDesni.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje8b\LeviInDesni\obj\Debug\LeviInDesni.exe
+C:\Users\Jurij\Desktop\c#\Prog3\Vaje8b\LeviInDesni\obj\Debug\LeviInDesni.pdb

@@ -294,7 +294,7 @@
             this.gmbLog.UseVisualStyleBackColor = true;
             this.gmbLog.Click += new System.EventHandler(this.Rac_Operacije_Click);
             // 
-            // Form1
+            // Kalkulator
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -323,8 +323,8 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "Kalkulator";
+            this.Text = "K A L K U L A T O R";
             this.Click += new System.EventHandler(this.Rac_Operacije_Click);
             this.ResumeLayout(false);
 

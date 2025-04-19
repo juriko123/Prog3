@@ -1,0 +1,10 @@
+C:\Users\Jurij\Desktop\vaje8\BezeciGumb\Naloga2\BezeciGumb\bin\Debug\BezeciGumb.exe.config
+C:\Users\Jurij\Desktop\vaje8\BezeciGumb\Naloga2\BezeciGumb\bin\Debug\BezeciGumb.exe
+C:\Users\Jurij\Desktop\vaje8\BezeciGumb\Naloga2\BezeciGumb\bin\Debug\BezeciGumb.pdb
+C:\Users\Jurij\Desktop\vaje8\BezeciGumb\Naloga2\BezeciGumb\obj\Debug\BezeciGumb.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\vaje8\BezeciGumb\Naloga2\BezeciGumb\obj\Debug\BezeciGumb.Form1.resources
+C:\Users\Jurij\Desktop\vaje8\BezeciGumb\Naloga2\BezeciGumb\obj\Debug\BezeciGumb.Properties.Resources.resources
+C:\Users\Jurij\Desktop\vaje8\BezeciGumb\Naloga2\BezeciGumb\obj\Debug\BezeciGumb.csproj.GenerateResource.cache
+C:\Users\Jurij\Desktop\vaje8\BezeciGumb\Naloga2\BezeciGumb\obj\Debug\BezeciGumb.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\vaje8\BezeciGumb\Naloga2\BezeciGumb\obj\Debug\BezeciGumb.exe
+C:\Users\Jurij\Desktop\vaje8\BezeciGumb\Naloga2\BezeciGumb\obj\Debug\BezeciGumb.pdb

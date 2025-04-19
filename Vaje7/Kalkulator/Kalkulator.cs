@@ -34,7 +34,7 @@ namespace Kalkulator
         private void Rac_Operacije_Click(object sender, EventArgs e)
         {
             Button gmb_operacij = (Button)sender;
-            prvo_stevilo = double.Parse(this.lblNapis.Text);
+            this.prvo_stevilo = double.Parse(this.lblNapis.Text);
             this.rac_operacija = gmb_operacij.Text;
             this.lblNapis.Text = "0";
         }
