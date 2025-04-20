@@ -1,0 +1,10 @@
+C:\Users\Jurij\Desktop\c#\Prog3\8bnalogeizpit\IzmenjavaBarv\bin\Debug\IzmenjavaBarv.exe.config
+C:\Users\Jurij\Desktop\c#\Prog3\8bnalogeizpit\IzmenjavaBarv\bin\Debug\IzmenjavaBarv.exe
+C:\Users\Jurij\Desktop\c#\Prog3\8bnalogeizpit\IzmenjavaBarv\bin\Debug\IzmenjavaBarv.pdb
+C:\Users\Jurij\Desktop\c#\Prog3\8bnalogeizpit\IzmenjavaBarv\obj\Debug\IzmenjavaBarv.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\Prog3\8bnalogeizpit\IzmenjavaBarv\obj\Debug\IzmenjavaBarv.Properties.Resources.resources
+C:\Users\Jurij\Desktop\c#\Prog3\8bnalogeizpit\IzmenjavaBarv\obj\Debug\IzmenjavaBarv.csproj.GenerateResource.cache
+C:\Users\Jurij\Desktop\c#\Prog3\8bnalogeizpit\IzmenjavaBarv\obj\Debug\IzmenjavaBarv.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\Prog3\8bnalogeizpit\IzmenjavaBarv\obj\Debug\IzmenjavaBarv.exe
+C:\Users\Jurij\Desktop\c#\Prog3\8bnalogeizpit\IzmenjavaBarv\obj\Debug\IzmenjavaBarv.pdb
+C:\Users\Jurij\Desktop\c#\Prog3\8bnalogeizpit\IzmenjavaBarv\obj\Debug\IzmenjavaBarv.IzmenjavaBarvv.resources

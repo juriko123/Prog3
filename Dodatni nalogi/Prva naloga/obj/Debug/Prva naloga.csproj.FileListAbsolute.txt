@@ -1,0 +1,10 @@
+C:\Users\Jurij\Desktop\c#\Prog3\Dodatni nalogi\Prva naloga\bin\Debug\Prva naloga.exe.config
+C:\Users\Jurij\Desktop\c#\Prog3\Dodatni nalogi\Prva naloga\bin\Debug\Prva naloga.exe
+C:\Users\Jurij\Desktop\c#\Prog3\Dodatni nalogi\Prva naloga\bin\Debug\Prva naloga.pdb
+C:\Users\Jurij\Desktop\c#\Prog3\Dodatni nalogi\Prva naloga\obj\Debug\Prva naloga.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\Prog3\Dodatni nalogi\Prva naloga\obj\Debug\Prva_naloga.tbGeslo.resources
+C:\Users\Jurij\Desktop\c#\Prog3\Dodatni nalogi\Prva naloga\obj\Debug\Prva_naloga.Properties.Resources.resources
+C:\Users\Jurij\Desktop\c#\Prog3\Dodatni nalogi\Prva naloga\obj\Debug\Prva naloga.csproj.GenerateResource.cache
+C:\Users\Jurij\Desktop\c#\Prog3\Dodatni nalogi\Prva naloga\obj\Debug\Prva naloga.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\Prog3\Dodatni nalogi\Prva naloga\obj\Debug\Prva naloga.exe
+C:\Users\Jurij\Desktop\c#\Prog3\Dodatni nalogi\Prva naloga\obj\Debug\Prva naloga.pdb

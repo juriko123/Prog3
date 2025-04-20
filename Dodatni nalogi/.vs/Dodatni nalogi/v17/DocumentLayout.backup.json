@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\Dodatni nalogi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{756FFBFC-9A91-48A8-A2FE-5BDA23EFE192}|Druga Naloga\\Druga Naloga.csproj|c:\\users\\jurij\\desktop\\c#\\prog3\\dodatni nalogi\\druga naloga\\glavokno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{756FFBFC-9A91-48A8-A2FE-5BDA23EFE192}|Druga Naloga\\Druga Naloga.csproj|solutionrelative:druga naloga\\glavokno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756FFBFC-9A91-48A8-A2FE-5BDA23EFE192}|Druga Naloga\\Druga Naloga.csproj|c:\\users\\jurij\\desktop\\c#\\prog3\\dodatni nalogi\\druga naloga\\glavokno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756FFBFC-9A91-48A8-A2FE-5BDA23EFE192}|Druga Naloga\\Druga Naloga.csproj|solutionrelative:druga naloga\\glavokno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlavOkno.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\Dodatni nalogi\\Druga Naloga\\GlavOkno.cs",
+              "RelativeDocumentMoniker": "Druga Naloga\\GlavOkno.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\Dodatni nalogi\\Druga Naloga\\GlavOkno.cs",
+              "RelativeToolTip": "Druga Naloga\\GlavOkno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T18:48:28.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GlavOkno.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\Dodatni nalogi\\Druga Naloga\\GlavOkno.cs",
+              "RelativeDocumentMoniker": "Druga Naloga\\GlavOkno.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\Dodatni nalogi\\Druga Naloga\\GlavOkno.cs [Design]",
+              "RelativeToolTip": "Druga Naloga\\GlavOkno.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T18:48:17.511Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

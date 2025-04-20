@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{741F6AE0-4AC6-48D4-B9F5-66C315C1B6AC}|Semafor\\Semafor.csproj|solutionrelative:semafor\\seemafor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{741F6AE0-4AC6-48D4-B9F5-66C315C1B6AC}|Semafor\\Semafor.csproj|c:\\users\\jurij\\desktop\\c#\\prog3\\vaje8b\\semafor\\seemafor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{741F6AE0-4AC6-48D4-B9F5-66C315C1B6AC}|Semafor\\Semafor.csproj|C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\Vaje8b\\semafor\\seemafor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{741F6AE0-4AC6-48D4-B9F5-66C315C1B6AC}|Semafor\\Semafor.csproj|solutionrelative:semafor\\seemafor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{741F6AE0-4AC6-48D4-B9F5-66C315C1B6AC}|Semafor\\Semafor.csproj|c:\\users\\jurij\\desktop\\c#\\prog3\\vaje8b\\semafor\\seemafor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{741F6AE0-4AC6-48D4-B9F5-66C315C1B6AC}|Semafor\\Semafor.csproj|C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\Vaje8b\\semafor\\seemafor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{741F6AE0-4AC6-48D4-B9F5-66C315C1B6AC}|Semafor\\Semafor.csproj|solutionrelative:semafor\\seemafor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,8 +34,7 @@
               "RelativeToolTip": "Semafor\\Seemafor.Designer.cs",
               "ViewState": "AgIAAEAAAAAAAAAAAAAiwFYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T23:30:37.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T23:30:37.548Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "Semafor\\Seemafor.cs",
               "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\Vaje8b\\Semafor\\Seemafor.cs",
               "RelativeToolTip": "Semafor\\Seemafor.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAUwCIAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBsAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-19T23:30:12.689Z",
               "EditorCaption": ""
@@ -59,8 +58,7 @@
               "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\Vaje8b\\Semafor\\Seemafor.cs [Design]",
               "RelativeToolTip": "Semafor\\Seemafor.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T23:27:20.525Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-19T23:27:20.525Z"
             }
           ]
         }

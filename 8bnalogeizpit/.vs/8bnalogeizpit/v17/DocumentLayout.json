@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\8bnalogeizpit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{518F046D-41AC-4BC8-A955-B5E8C82458D7}|VozecaPloscad\\VozecaPloscad.csproj|c:\\users\\jurij\\desktop\\c#\\prog3\\8bnalogeizpit\\vozecaploscad\\glavnookno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518F046D-41AC-4BC8-A955-B5E8C82458D7}|VozecaPloscad\\VozecaPloscad.csproj|solutionrelative:vozecaploscad\\glavnookno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518F046D-41AC-4BC8-A955-B5E8C82458D7}|VozecaPloscad\\VozecaPloscad.csproj|c:\\users\\jurij\\desktop\\c#\\prog3\\8bnalogeizpit\\vozecaploscad\\glavnookno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{518F046D-41AC-4BC8-A955-B5E8C82458D7}|VozecaPloscad\\VozecaPloscad.csproj|solutionrelative:vozecaploscad\\glavnookno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41854D8-F481-4EAB-B2C7-9AD07532D23A}|Vlak\\Vlak.csproj|c:\\users\\jurij\\desktop\\c#\\prog3\\8bnalogeizpit\\vlak\\vlak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41854D8-F481-4EAB-B2C7-9AD07532D23A}|Vlak\\Vlak.csproj|solutionrelative:vlak\\vlak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41854D8-F481-4EAB-B2C7-9AD07532D23A}|Vlak\\Vlak.csproj|C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\8bnalogeizpit\\vlak\\vlak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D41854D8-F481-4EAB-B2C7-9AD07532D23A}|Vlak\\Vlak.csproj|solutionrelative:vlak\\vlak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GlavnoOkno.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\8bnalogeizpit\\VozecaPloscad\\GlavnoOkno.cs",
+              "RelativeDocumentMoniker": "VozecaPloscad\\GlavnoOkno.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\8bnalogeizpit\\VozecaPloscad\\GlavnoOkno.cs",
+              "RelativeToolTip": "VozecaPloscad\\GlavnoOkno.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowD0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:55:16.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlavnoOkno.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\8bnalogeizpit\\VozecaPloscad\\GlavnoOkno.cs",
+              "RelativeDocumentMoniker": "VozecaPloscad\\GlavnoOkno.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\8bnalogeizpit\\VozecaPloscad\\GlavnoOkno.cs [Design]",
+              "RelativeToolTip": "VozecaPloscad\\GlavnoOkno.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:55:15.09Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vlak.cs",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\8bnalogeizpit\\Vlak\\Vlak.cs",
+              "RelativeDocumentMoniker": "Vlak\\Vlak.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\8bnalogeizpit\\Vlak\\Vlak.cs",
+              "RelativeToolTip": "Vlak\\Vlak.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T01:21:10.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vlak.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\8bnalogeizpit\\Vlak\\Vlak.cs",
+              "RelativeDocumentMoniker": "Vlak\\Vlak.cs",
+              "ToolTip": "C:\\Users\\Jurij\\Desktop\\c#\\Prog3\\8bnalogeizpit\\Vlak\\Vlak.cs [Design]",
+              "RelativeToolTip": "Vlak\\Vlak.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T01:16:19.112Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prva naloga", "Prva naloga\Prva naloga.csproj", "{CC136E3D-4AC2-4A1C-9AC8-29A3DD22EEFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Druga Naloga", "Druga Naloga\Druga Naloga.csproj", "{756FFBFC-9A91-48A8-A2FE-5BDA23EFE192}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC136E3D-4AC2-4A1C-9AC8-29A3DD22EEFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC136E3D-4AC2-4A1C-9AC8-29A3DD22EEFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC136E3D-4AC2-4A1C-9AC8-29A3DD22EEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC136E3D-4AC2-4A1C-9AC8-29A3DD22EEFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{756FFBFC-9A91-48A8-A2FE-5BDA23EFE192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{756FFBFC-9A91-48A8-A2FE-5BDA23EFE192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{756FFBFC-9A91-48A8-A2FE-5BDA23EFE192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{756FFBFC-9A91-48A8-A2FE-5BDA23EFE192}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA6FE347-2F24-4F98-9647-311F3BA34E08}
+	EndGlobalSection
+EndGlobal

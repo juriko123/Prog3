@@ -1,0 +1,10 @@
+C:\Users\Jurij\Desktop\c#\Prog3\Dodatni nalogi\Druga Naloga\bin\Debug\Druga Naloga.exe.config
+C:\Users\Jurij\Desktop\c#\Prog3\Dodatni nalogi\Druga Naloga\bin\Debug\Druga Naloga.exe
+C:\Users\Jurij\Desktop\c#\Prog3\Dodatni nalogi\Druga Naloga\bin\Debug\Druga Naloga.pdb
+C:\Users\Jurij\Desktop\c#\Prog3\Dodatni nalogi\Druga Naloga\obj\Debug\Druga Naloga.csproj.AssemblyReference.cache
+C:\Users\Jurij\Desktop\c#\Prog3\Dodatni nalogi\Druga Naloga\obj\Debug\Druga_Naloga.Properties.Resources.resources
+C:\Users\Jurij\Desktop\c#\Prog3\Dodatni nalogi\Druga Naloga\obj\Debug\Druga Naloga.csproj.GenerateResource.cache
+C:\Users\Jurij\Desktop\c#\Prog3\Dodatni nalogi\Druga Naloga\obj\Debug\Druga Naloga.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\Desktop\c#\Prog3\Dodatni nalogi\Druga Naloga\obj\Debug\Druga Naloga.exe
+C:\Users\Jurij\Desktop\c#\Prog3\Dodatni nalogi\Druga Naloga\obj\Debug\Druga Naloga.pdb
+C:\Users\Jurij\Desktop\c#\Prog3\Dodatni nalogi\Druga Naloga\obj\Debug\Druga_Naloga.GlavOkno.resources
